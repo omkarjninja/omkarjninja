@@ -1,4 +1,4 @@
-<h1 align="center">Hi 💀, I'm Omkar Jadhav</h1>
+<h1 align="center">Hi , I'm Omkar Jadhav</h1>
 <h3 align="center">A passionate FrontEnd Developer ,Graphic Designer and a Video editor.</h3>
 
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/omkarjninja/Ninjafy)
