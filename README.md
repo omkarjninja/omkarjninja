@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Omkar Jadhav</h1>
-<h3 align="center">A passionate FrontEnd Developer ,Graphic Designer and a Video editor.</h3>
+<h3 align="center">FullStack Developer</h3>
 
-- 🔭 I’m currently working on Nothing!
+- 🔭 I’m currently working on My new Portfolio!
 
-- 🌱 I’m currently learning **MongoDB and ReactJS**
+- 🌱 I’m currently learning **Typescript and NextJS**
 
 - 🤝 I’m looking for help with **Full Stack Devlopment**
 
