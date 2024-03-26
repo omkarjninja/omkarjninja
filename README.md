@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Full Stack Devlopment**
 
-- 👨‍💻 All of my projects are available at [https://omkarjninja.github.io/OmkarJ/](https://radiant-squirrel-cd45c4.netlify.app/)
+- 👨‍💻 All of my projects are available at [Omkar's Portfolio](https://radiant-squirrel-cd45c4.netlify.app/)
 
 - 💬 Ask me about **CSS,JS and NodeJS**
 
