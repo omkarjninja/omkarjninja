@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Omkar Jadhav</h1>
 <h3 align="center">FullStack Developer</h3>
 
-- 🔭 I’m currently working on My new Portfolio!
+- 🔭 I’m currently working on My new Blog Page!
 
 - 🌱 I’m currently learning **Typescript and NextJS**
 
 - 🤝 I’m looking for help with **Full Stack Devlopment**
 
-- 👨‍💻 All of my projects are available at [Omkar's Portfolio](https://radiant-squirrel-cd45c4.netlify.app/)
+- 👨‍💻 All of my projects are available at [Omkar's Portfolio](https://jadhavomkar.netlify.app/)
 
 - 💬 Ask me about **CSS,JS and NodeJS**
 
